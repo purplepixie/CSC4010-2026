@@ -19,6 +19,7 @@ int main()
     }
 
     printf("Parallel region finished\n");
+
     
     return 0;
 }
